@@ -1,0 +1,13 @@
+{
+  "appId": "com.kelasonline.app",
+  "appName": "Kelas Online",
+  "webDir": "www",
+  "server": {
+    "url": "https://zainirma26.github.io/kelas-mudzakarah/",
+    "allowNavigation": ["zainirma26.github.io"],
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
